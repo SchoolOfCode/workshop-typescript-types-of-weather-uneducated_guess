@@ -11,5 +11,5 @@
 
 - Barebones - nothing wild 
 - Header
-- Main
+- Main - in here we'll have the entire funcationality of the project - enter city and find the weather there 
 - Footer
