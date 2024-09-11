@@ -1,0 +1,15 @@
+### THE PLAN
+
+## TOOLKITS AND LIBRARYS
+
+- React LINK:  (https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/)
+- Weather varporwaves 
+- Typescript LINK: (https://www.w3schools.com/typescript/typescript_intro.php)
+- Weather API : (e732cd12a2800fa58870a96de2329168)
+
+## Components
+
+- Barebones - nothing wild 
+- Header
+- Main
+- Footer
